@@ -47,11 +47,11 @@
 #### [人工智能API大全](https://www.explinks.com/bookmark/ai_api_nav) <a name="ai-api-directory" style="color: blue;"></a>
 
 
-* [AI大模型API](#fai_llm_api)
-* [AI写作API](#ai_write_api)
-* [AI营销API](#ai_marketing_api)
-* [AI图像API](#ai_image_api)
-* [AI聊天机器人API](#ai_chatbot_api)
+* [AI大模型API](#AI大模型API)
+* [AI写作API](#AI写作API)
+* [AI营销API](#AI营销API)
+* [AI图像API](#AI图像API)
+* [AI聊天机器人API](#AI聊天机器人API)
   
 
 <br >
@@ -73,51 +73,35 @@
 
 <br >
 
-### 免费AI API
+### AI大模型API
 | API | 简介 |
 |:---|:---|
 | [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。|
 
 
 
-### 免费翻译API
+### AI写作API
 | API | 简介 |
 |:---|:---|
 | [Libre翻译-LibreTranslate ](https://www.explinks.com/api/scd2024061355232e064a47) |  LibreTranslate 是一个开源机器翻译 API。它可免费用于测试、个人或不经常使用，并受 AGPLv3 许可。|
 
 
-### 免费地图API
+### AI营销API
 | API | 简介 |
 |:---|:---|
 | [企业地理服务API-MapFan](https://www.explinks.com/api/scd20240616445022fe5be7) |  MapFan API是一种面向企业的云服务，可以使用高质量的地理位置数据实现地图显示、人流分析、路线搜索和搜索等功能。|
 
 
-### 免费天气API
+### AI图像API
 | API | 简介 |
 |:---|:---|
 | [天气API-Tomorrow ](https://www.explinks.com/api/scd20240616205222fe5b62) | 通过我们的免费天气 API 访问准确和最新的天气信息，并了解为什么开发人员和企业依靠 Tomorrow.io 通过最尖端的界面获得快速、可靠和超准确的天气数据，这是为您的网站或应用程序提供与天气相关的功能的完美解决方案。|
 
-### 免费社交媒体API
+### AI聊天机器人API
 | API | 简介 |
 |:---|:---|
 | [知乎热搜榜](https://www.explinks.com/api/scd2024031447870ae64ec2) | 知乎热搜榜API服务为开发者提供知乎问答社区实时的热门话题排行和相关信息，包括热搜排行、讨论热度、相关问题等数据接口，帮助开发者构建基于知乎热点话题的应用和分析工具，深入了解用户关注点，把握舆论趋势。|
 
-
-### 免费新闻API
-| API | 简介 |
-|:---|:---|
-| [免费全球新闻API-Thenewsapi](https://www.explinks.com/api/scd20240808320037fa53f8) | 免费全球新闻API服务提供了一种便捷的方式来获取来自世界各地的最新新闻信息。这些API允许开发者和用户通过编程方式访问全球新闻源，实时获取新闻文章、标题、概要等相关信息。|
-
-
-### 免费金融数据API
-| API | 简介 |
-|:---|:---|
-| [汇率数据服务-CurrenyBeacon](https://www.explinks.com/api/scd202407249375084cd875) | CurrenyBeacon 是另一个用于访问货币汇率的强大 API。它提供 200 多种货币的实时和历史汇率数据。使用 CurrenyBeacon，开发人员可以轻松地将货币兑换功能集成到他们的应用程序和网站中。|
-
-### 免费云数据API
-| API | 简介 |
-|:---|:---|
-| [视频二维码服务-酷播](https://www.explinks.com/api/scd2024071113901877ba08) | 酷播视频二维码，是指用户上传视频后，酷播云直接自动生成二维码，观看者通过扫二维码直接观看，也可以直接在微信端对视频进行分享，实现视频更便捷的分享与传播。|
 
 
 <br >
