@@ -76,32 +76,37 @@
 ### AI大模型API
 | API | 简介 |
 |:---|:---|
-| [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。|
-
+| [KimiGPT开放平台](https://apihub.explinks.com/api/scd2024052813171effabb6) | Moonshot的文本生成模型（指moonshot-v1）是训练用于理解自然语言和书面语言的，它可以根据输入生成文本输出。moonshot-v1模型可以用于各种任务，包括内容或代码生成、摘要、对话、创意写作等。|
+| [文本生成模型-GLM4](https://apihub.explinks.com/api/ai_model_glm_4) | GLM-4是由智谱AI自主研发的一款高性能、国产化的预训练大模型，它是GLM系列的最新迭代版本。它支持超长上下文处理，增强了对复杂视觉信息的理解和生成能力，比如利用CogView3技术实现文生图。|
+| [讯飞星火认知大模型](https://apihub.explinks.com/api/scd20240419689019515653) | 讯飞星火认知大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。|
 
 
 ### AI写作API
 | API | 简介 |
 |:---|:---|
-| [Libre翻译-LibreTranslate ](https://www.explinks.com/api/scd2024061355232e064a47) |  LibreTranslate 是一个开源机器翻译 API。它可免费用于测试、个人或不经常使用，并受 AGPLv3 许可。|
+| [祝福语生成-百度 ](https://apihub.explinks.com/api/scd2023122535472d70e202) | 对文章按照内容类型进行自动分类，首批支持娱乐、体育、科技等26个主流内容类型，为文章聚类、文本内容分析等应用提供基础技术支持。|
+| [AI文章分类-百度 ](https://apihub.explinks.com/api/scd20240409300316e67354) | 对文章按照内容类型进行自动分类，首批支持娱乐、体育、科技等26个主流内容类型，为文章聚类、文本内容分析等应用提供基础技术支持。|
 
 
 ### AI营销API
 | API | 简介 |
 |:---|:---|
-| [企业地理服务API-MapFan](https://www.explinks.com/api/scd20240616445022fe5be7) |  MapFan API是一种面向企业的云服务，可以使用高质量的地理位置数据实现地图显示、人流分析、路线搜索和搜索等功能。|
+| [ AI生成简短广告语 ](https://apihub.explinks.com/api/ai_short_advertisement_slogan) | AI 生成简短广告语 API 服务，能够依据所给提示，迅速且高效地创作出精致的广告语以及宣传标语。它具备强大的语言处理能力，可助力用户轻松获得符合需求的优质广告语和宣传标语，为各种场景的推广提供有力支持。|
+| [AI生成吸睛促销文案 ](https://apihub.explinks.com/api/ai_eye_catching_promotional) | AI 生成吸睛促销文案 API，能够智能化地自动生成促销活动的文案。它通过先进的技术和算法，高效地创作出极具吸引力和感染力的促销文案，助力商家更好地开展促销活动，提升产品或服务的销量与影响力。|
 
 
 ### AI图像API
 | API | 简介 |
 |:---|:---|
-| [天气API-Tomorrow ](https://www.explinks.com/api/scd20240616205222fe5b62) | 通过我们的免费天气 API 访问准确和最新的天气信息，并了解为什么开发人员和企业依靠 Tomorrow.io 通过最尖端的界面获得快速、可靠和超准确的天气数据，这是为您的网站或应用程序提供与天气相关的功能的完美解决方案。|
+| [AI作画 ](https://apihub.explinks.com/api/scd2024041274211c54ec08) | 国内首个技术自研、基于大模型的通用且可控的文生图系统，可基于自然语言智能生成不限定风格的图像，面向有图片创作需求的开发者提供API调用服务，为内容创作者提供灵感和高质量配图。|
+| [火山引擎文生图-高美感通用版 ](https://apihub.explinks.com/api/scd2024042460623aa6b739) | 高美感通用V1.3是通用场景的文生图模型，其在美学水平和V1.2保持接近，图文匹配度和结构准确性相较V1.2有较大提升，生成的图片可支持*2超分，可支持通用场景下的文生图功能。|
+
 
 ### AI聊天机器人API
 | API | 简介 |
 |:---|:---|
-| [知乎热搜榜](https://www.explinks.com/api/scd2024031447870ae64ec2) | 知乎热搜榜API服务为开发者提供知乎问答社区实时的热门话题排行和相关信息，包括热搜排行、讨论热度、相关问题等数据接口，帮助开发者构建基于知乎热点话题的应用和分析工具，深入了解用户关注点，把握舆论趋势。|
-
+| [Writesonic ChatSonic聊天机器人](https://www.explinks.com/api/scd20240425270209ebce86) |  Writesonic ChatSonic 聊天机器人，它类似于 ChatGPT。不过其具备独特优势，不仅拥有实时数据，还可进行图像以及语音搜索功能，能为用户提供更丰富全面且即时的信息交互体验，满足多样化的需求。|
+| [openwebninja Microsoft (Bing) Copilot ](https://www.explinks.com/api/scd20240425154009ebcdf8) | 简单可靠的 Microsoft (Bing) Copilot API (ChatGPT-4 / GPT-4 Turbo) 具有 Web 浏览功能和持续对话支持。|
 
 
 <br >
